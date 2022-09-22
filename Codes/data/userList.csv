@@ -1,0 +1,11 @@
+username,password_hash,permissions,name,email,batch,remarks
+admin,$7$C6..../....PxOyHlx82o0NurEO8S87CzoGwTR5fqmbslhHmp0qID4$hjDOZCW22uCvt28WTeDWZIt9U3EhnzIgRhLJPy8WBY.,admin,Admin,test@gmail.com,,NA
+user,$7$C6..../..../Sq3jIBArQjXGx9EhergJe.fj6uuHiCaqsxlJ8oHlD6$Z8LJkrTLQCNHh/aXbMAYdbAnm4Koe6iOOaVgCCl4nZD,user,User,user@gmail.com,,NA
+guest,$7$C6..../....PxOyHlx82o0NurEO8S87CzoGwTR5fqmbslhHmp0qID4$hjDOZCW22uCvt28WTeDWZIt9U3EhnzIgRhLJPy8WBY.,user,Guest,,,NA
+kylynn,$7$C6..../....0k3UZPKM2mBOPEg8rH5o.jQqiWAh2Awva.0fLx5jSj4$koDmCd6YwEgwXiZIdnbQuMl.fEPx48CQy2GaqCn/zzC,student,Kylynn,,Y2020-Sec3,NA
+yeesiew,$7$C6..../....sb8mTp6vH8ifufLkCLUa3tXOdRvDY44BI6KeyBOMAT0$4TN3jUQAHj5qGORbn02Hk2OxoCbUb9/ViG3Gv6XRay/,student,Yee Siew,,Y2020-Sec3,NA
+hayley,$7$C6..../....GtaVJPSpNc6l8NvI.w53UUzokT/hqXFiXBaJstbLyEA$Tosv99RBUrkB7YRGca4pPt8hQmUIrR1BSUqATSFSzU8,student,Hayley,,Y2020-Sec3,NA
+jiaan,$7$C6..../....QG0NYpcou55LDH26RzCIBFOyk0Quiu/At3NXUu6lspB$kB8dDpiVRcRybIdDbXbnjQ.V10cp0UXjW1T6pgZfu9B,student,Jia An,,Y2020-Sec3,NA
+sarah,$7$C6..../....3BVy1/MCDAWNVj/i3oUj5bewqx5uUPGle3vvIpYC3FB$ze8UzYAeT9YzDFWbgFPIphyPZCsmTYQiWeFlFTO.p37,student,Sarah,,Y2020-Sec3,NA
+puaykun,$7$C6..../....GpGrIQ6OflEnj4FuiFvzHqLLfIEzqci2eYJmakc0pi.$H3qTBp8C3jbKxWjjfGP9DvudH0APHni7s7e5NLNBHBB,student,Puay Kun,,Y2019-Sec3,NA
+jeungwong,$7$C6..../....n0pFmUCpI.INj75NxbvVAwcqRdGWlni2ngwVFFABq/5$KXyHru9SXIjbb9tH6dw.1f9v/wAo8B4nsXh6npAbYy9,student,Jeun Gwong,,Y2019-Sec3,NA

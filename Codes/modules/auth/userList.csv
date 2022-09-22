@@ -1,0 +1,6 @@
+"username","password_hash","permissions","name","email","batch","remarks"
+"w001","$7$C6..../....bfomj0YJDeJO5Pq8boqSacVLCHi6K51Pegf1llqfD88$C6NB7II8yNf2qie4qQby23zJhT.Tdz1sw9kLKtX1RPB","warehouse","Warehouse","","",NA
+"h001","$7$C6..../....bfomj0YJDeJO5Pq8boqSacVLCHi6K51Pegf1llqfD88$C6NB7II8yNf2qie4qQby23zJhT.Tdz1sw9kLKtX1RPB","haulier","Haulier","","",NA
+"h002","$7$C6..../....rAOawm0JNL/y4p04mZk/BQ99sJOWtC5BhzTQROKb2cC$FGKMTyUFs4FFu.QJCXRQjlYv0/r0bLFUKHwOFzcx9B5","haulier","","",""
+"h003","$7$C6..../....X2XtKT5Vnd27I0.Gsksu9vyDhxfE4iR0eMVQR/X/k61$Ba52uJncfusGUPUVw3kZhgC8Xd1CpT0tVa66mlQrvuC","haulier","h003","",""
+"h006","$7$C6..../....4F7/536gmQKDosndWoHhAPkWtovv2yp0RlBf13kYXCC$uWUQV1r3WtZVvHMi5QqVP2gDllMWy9mado/aDyZHQo7","haulier","","",""

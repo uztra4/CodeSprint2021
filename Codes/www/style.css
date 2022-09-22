@@ -1,0 +1,33 @@
+.table {
+  margin: 0 auto;
+}
+
+.brand_logo {
+  padding: 0 16px 8px 0 !important;
+}
+
+.main-header .logo {
+  padding: 0 0 0 2px !important;
+}
+
+#user_profile {
+  padding: 20px 5px 0 5px;
+}
+
+#logout-button {
+  margin: 8px;
+}
+
+.skin-blue .main-header .navbar .nav>li>a {
+  background: rgb(238,238,238);
+  color: rgb(75,75,75) !important;
+}
+
+.bttn-default:before {
+  background: #2CDEEB
+}
+
+.bttn-default:after {
+  background: #00FFD5
+}
+

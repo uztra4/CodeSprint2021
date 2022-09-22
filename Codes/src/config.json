@@ -1,0 +1,4 @@
+{
+  // App requires authentication (Boolean)
+   "useAuthentication": true
+}
